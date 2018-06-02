@@ -1,0 +1,19 @@
+{
+  "name": "plcrawler",
+  "version": "1.0.0",
+  "description": "Crawler and Scraper for premier league",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "*",
+    "mongoose": "*",
+    "path": "^0.12.7",
+    "request": "^2.87.0"
+  },
+  "author": "Pranav Sharan",
+  "license": "ISC"
+}
